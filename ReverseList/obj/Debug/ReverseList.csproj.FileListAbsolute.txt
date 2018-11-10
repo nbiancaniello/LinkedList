@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\LinkedList\ReverseList\bin\Debug\ReverseList.exe.config
+C:\Users\Nico\source\repos\LinkedList\ReverseList\bin\Debug\ReverseList.exe
+C:\Users\Nico\source\repos\LinkedList\ReverseList\bin\Debug\ReverseList.pdb
+C:\Users\Nico\source\repos\LinkedList\ReverseList\obj\Debug\ReverseList.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\LinkedList\ReverseList\obj\Debug\ReverseList.exe
+C:\Users\Nico\source\repos\LinkedList\ReverseList\obj\Debug\ReverseList.pdb
+C:\Users\Nico\source\repos\LinkedList\ReverseList\obj\Debug\ReverseList.csprojAssemblyReference.cache

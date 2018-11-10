@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\LinkedList\DeleteNode\bin\Debug\DeleteNode.exe.config
+C:\Users\Nico\source\repos\LinkedList\DeleteNode\bin\Debug\DeleteNode.exe
+C:\Users\Nico\source\repos\LinkedList\DeleteNode\bin\Debug\DeleteNode.pdb
+C:\Users\Nico\source\repos\LinkedList\DeleteNode\obj\Debug\DeleteNode.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\LinkedList\DeleteNode\obj\Debug\DeleteNode.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\LinkedList\DeleteNode\obj\Debug\DeleteNode.exe
+C:\Users\Nico\source\repos\LinkedList\DeleteNode\obj\Debug\DeleteNode.pdb

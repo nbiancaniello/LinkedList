@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\LinkedList\AddTail\bin\Debug\AddTail.exe.config
+C:\Users\Nico\source\repos\LinkedList\AddTail\bin\Debug\AddTail.exe
+C:\Users\Nico\source\repos\LinkedList\AddTail\bin\Debug\AddTail.pdb
+C:\Users\Nico\source\repos\LinkedList\AddTail\obj\Debug\AddTail.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\LinkedList\AddTail\obj\Debug\AddTail.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\LinkedList\AddTail\obj\Debug\AddTail.exe
+C:\Users\Nico\source\repos\LinkedList\AddTail\obj\Debug\AddTail.pdb

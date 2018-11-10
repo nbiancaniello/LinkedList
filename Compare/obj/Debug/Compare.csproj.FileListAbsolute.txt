@@ -1,0 +1,7 @@
+C:\Users\Nico\source\repos\LinkedList\Compare\bin\Debug\Compare.exe.config
+C:\Users\Nico\source\repos\LinkedList\Compare\bin\Debug\Compare.exe
+C:\Users\Nico\source\repos\LinkedList\Compare\bin\Debug\Compare.pdb
+C:\Users\Nico\source\repos\LinkedList\Compare\obj\Debug\Compare.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\LinkedList\Compare\obj\Debug\Compare.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\LinkedList\Compare\obj\Debug\Compare.exe
+C:\Users\Nico\source\repos\LinkedList\Compare\obj\Debug\Compare.pdb
